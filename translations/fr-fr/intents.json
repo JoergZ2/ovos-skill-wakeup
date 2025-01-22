@@ -1,0 +1,20 @@
+{
+  "WhenWereYouBorn.intent": [
+    "quand es-tu né",
+    "quand (as-tu été|est-ce que tu as été) (créé|conçu|fabriqué|pensé|fait|assemblé)"
+  ],
+  "WhereWereYouBorn.intent": [
+    "où (est-ce que tu es|es-tu) né",
+    "où as-tu été (créé|conçu|frabriqué|pensé|fait)"
+  ],
+  "WhoMadeYou.intent": [
+    "qui t'a (conçu|créé|fabriqué|pensé|fait)",
+    "par qui as-tu été (conçu|créé|fabriqué|pensé|fait)"
+  ],
+  "WhatAreYou.intent": [
+    "qu'est-ce que tu es"
+  ],
+  "WhoAreYou.intent": [
+    "qui es-tu"
+  ]
+}

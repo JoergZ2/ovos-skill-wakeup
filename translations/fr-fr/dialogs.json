@@ -1,0 +1,22 @@
+{
+  "who.made.me.dialog": [
+    "La merveilleuse communauté d' {creator}",
+    "Les incroyables contributeurs de la communauté {creator}"
+  ],
+  "who.am.i.dialog": [
+    "Mon nom est {name}, je suis un assistant vocal intelligent.",
+    "Je suis {name}, une I.A. avec un code source ouvert."
+  ],
+  "where.was.i.born.dialog": [
+    "Je suis né à {location}."
+  ],
+  "what.am.i.dialog": [
+    "Je suis une intelligence artificielle open source.",
+    "Je suis un logiciel intelligent pour communiquer avec des machines."
+  ],
+  "when.was.i.born.dialog": [
+    "J'ai vu le jour en {year}.",
+    "Je suis né en {year}.",
+    "J'ai parlé pour la première fois en {year}."
+  ]
+}
